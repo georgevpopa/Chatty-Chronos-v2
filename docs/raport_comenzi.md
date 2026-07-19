@@ -1,0 +1,1 @@
+## Comenzi\n\n1. Citirea fisierului main.py\n2. Analizarea codului si extragerea numelui tuturor functiilor sau comenzilor definite in el\n3. Crearea unui fisier nou numit raport_comenzi.md in care sa pui o lista cu acestea si o scurta explicatie pentru fiecare
