@@ -5,7 +5,7 @@ Usage:
     python deploy.py                 # Interactive install
     python deploy.py --skip-models   # Skip pulling Ollama models
     python deploy.py --update        # Update existing install
-    python deploy.py --path "D:\my\path"  # Install to custom path
+    python deploy.py --path "D:\\my\\path"  # Install to custom path
 """
 import subprocess
 import sys
